@@ -1,11 +1,11 @@
 const players = [
   {
     name: "Casey Aiken Sunanto",
-    age: 22,
+    age: "22",
     height: "182",
     weight: "84",
     dominantHand: "Right",
-    yearsPlaying: 1,
+    yearsPlaying: "1",
     racket: "Hundred Nitrix 70 Volta",
     string: "Exbolt 68",
     tension: "29lbs",
